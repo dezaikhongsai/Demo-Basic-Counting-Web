@@ -1,0 +1,9 @@
+Xây dựng trang web đơn giản với: html , css , javascript
+
+    * HTML :
+        + form html cơ bản
+        + cách gán id và class cho thẻ html
+    * CSS : 
+        + nhúng html vào css
+    * javascript : 
+        + Xử lý sự kiện trong html (button.onclick)
